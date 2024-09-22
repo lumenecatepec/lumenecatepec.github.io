@@ -1,0 +1,9 @@
+# Ignorar la carpeta .idea
+.idea/
+
+# Ignorar archivos de configuración de logs
+*.log
+
+# Ignorar archivos de compilación
+/out/
+/target/
