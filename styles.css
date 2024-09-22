@@ -41,7 +41,7 @@ h1{
 }
 a{
     text-decoration: none;
-    color: rgb(240, 240, 240);
+    color: rgb(21, 21, 21);
 }
 .tile{
     width: 100%;
@@ -67,19 +67,16 @@ a{
     margin-top: 10px;
 }
 #website {
-    background-color: #212121;
+    background-color: #3365ff;
 }
 #facebook {
-    background-color: #3b5998;
+    background-color: #ff3232;
 }
 #instagram {
-    background-color: #e1306c;
+    background-color: #fffc40;
 }
 .blackFont {
     color: black;
-}
-#tiktok {
-    background-color: #141414;
 }
 .image-container{
     height: 300px;
