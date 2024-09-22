@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
         event.preventDefault(); // Prevenir la acción por defecto del enlace
 
         const email = 'impecatepec@lumen.com.mx';
-        const subject = 'envio';
+        const subject = 'Lumen';
 
         const mailtoLink = `mailto:${email}?subject=${encodeURIComponent(subject)}`;
 
